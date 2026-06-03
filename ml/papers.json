@@ -1,0 +1,17 @@
+{
+  "AI": [
+    "Deep Learning for NLP",
+    "Neural Networks for Image Classification",
+    "Transformers in Machine Learning"
+  ],
+  "Networks": [
+    "Routing Protocols in Computer Networks",
+    "Network Congestion Control",
+    "Wireless Network Optimization"
+  ],
+  "Security": [
+    "Cybersecurity Threat Detection",
+    "Malware Analysis Techniques",
+    "Encryption and Data Protection"
+  ]
+}

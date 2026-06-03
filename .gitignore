@@ -1,0 +1,23 @@
+# Node
+client/node_modules/
+server/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# ML models
+ml/model.pkl
+ml/vectorizer.pkl
+
+# Large datasets
+dblp.xml
+dblp.xml.gz
+ml/raw_data/
+ml/processed/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
